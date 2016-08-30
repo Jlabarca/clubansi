@@ -1,0 +1,71 @@
+.producto{
+      text-align: center;
+}
+.span_nombre_producto  {
+    color: rgb(68, 68, 68);
+    display: block;
+    font-family: Helvetica, Arial, sans-serif;
+    outline-color: rgb(68, 68, 68);
+    text-align: center;
+    column-rule-color: rgb(68, 68, 68);
+    perspective-origin: 86px 42px;
+    transform-origin: 86px 42px;
+    font: normal normal normal normal 16px / 28.8px Helvetica, Arial, sans-serif;
+    outline: rgb(68, 68, 68) none 0px;
+}/*#SPAN_7*/
+
+.span_precio_producto {
+    border-bottom-color: rgb(0, 119, 187);
+    border-left-color: rgb(0, 119, 187);
+    border-right-color: rgb(0, 119, 187);
+    border-top-color: rgb(0, 119, 187);
+    color: rgb(0, 119, 187);
+    display: block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    height: 28px;
+    line-height: 28.8px;
+    outline-color: rgb(0, 119, 187);
+    text-align: center;
+    width: 172px;
+    column-rule-color: rgb(0, 119, 187);
+    perspective-origin: 86px 14px;
+    transform-origin: 86px 14px;
+    border: 0px none rgb(0, 119, 187);
+    border-top: 0px none rgb(0, 119, 187);
+    border-right: 0px none rgb(0, 119, 187);
+    border-bottom: 0px none rgb(0, 119, 187);
+    border-left: 0px none rgb(0, 119, 187);
+    border-color: rgb(0, 119, 187);
+    font: normal normal bold normal 16px / 28.8px Helvetica, Arial, sans-serif;
+    outline: rgb(0, 119, 187) none 0px;
+}/*#SPAN_8*/
+
+.precio {
+    text-align: center;
+    border-bottom-color: rgb(0, 119, 187);
+    border-left-color: rgb(0, 119, 187);
+    border-right-color: rgb(0, 119, 187);
+    border-top-color: rgb(0, 119, 187);
+    color: rgb(0, 119, 187);
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 28.8px;
+    outline-color: rgb(0, 119, 187);
+    text-align: center;
+    column-rule-color: rgb(0, 119, 187);
+    border: 0px none rgb(0, 119, 187);
+    border-top: 0px none rgb(0, 119, 187);
+    border-right: 0px none rgb(0, 119, 187);
+    border-bottom: 0px none rgb(0, 119, 187);
+    border-left: 0px none rgb(0, 119, 187);
+    border-color: rgb(0, 119, 187);
+    font: normal normal bold normal 16px / 28.8px Helvetica, Arial, sans-serif;
+    outline: rgb(0, 119, 187) none 0px;
+}/*#SPAN_9*/
+
+.precio_antiguo {
+    text-decoration: line-through;
+}/*#SPAN_10*/
